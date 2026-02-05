@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Eric Penn
+# 👋 Hi, I’m Eric P.
 
 🐍 **AI/ML Data Scientist**  
-📧 **Email:** [ericpenn.dev@gmail.com](mailto:ericpenn.dev@gmail.com)
+📧 **Email:** [peneric480@gmail.com](mailto:peneric480@gmail.com)
 
 ---
 
